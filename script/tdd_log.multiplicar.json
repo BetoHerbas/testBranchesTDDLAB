@@ -24,9 +24,23 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "90c2ae9162ffe424b6805a4510a9d7a7041079be",
     "commitName": "MULTIPLICAR adding multiplicar function",
     "commitTimestamp": 1762749364930,
     "testId": 0
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1762749693288,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "MULTIPLICAR commit 2",
+    "commitTimestamp": 1762749710374,
+    "testId": 1
   }
 ]
