@@ -17,3 +17,5 @@ describe("Dividir", () => {
     expect(dividir(6, 2)).toEqual(3);
   });
 });
+
+
