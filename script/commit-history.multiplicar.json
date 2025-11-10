@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "BetoHerbas",
+    "commit": {
+      "date": "2025-11-10T04:36:04.000Z",
+      "message": "MULTIPLICAR adding multiplicar function",
+      "url": "https://github.com/BetoHerbas/testBranchesTDDLAB/commit/HEAD"
+    },
+    "stats": {
+      "total": 41,
+      "additions": 38,
+      "deletions": 3,
+      "date": "2025-11-10"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
