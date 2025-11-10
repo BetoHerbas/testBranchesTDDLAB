@@ -5,5 +5,9 @@ function sumar(a, b) {
 function restar(a, b) {
   return a - b;
 }
-  
-export { sumar, restar };
+
+function dividir(a, b) {
+  return a / b;
+}
+
+export { sumar, restar, dividir };
