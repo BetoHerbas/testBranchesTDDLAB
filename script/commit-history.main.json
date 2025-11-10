@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "BetoHerbas",
+    "commit": {
+      "date": "2025-11-10T04:34:08.000Z",
+      "message": "MAIN add restar",
+      "url": "https://github.com/BetoHerbas/testBranchesTDDLAB/commit/HEAD"
+    },
+    "stats": {
+      "total": 64,
+      "additions": 62,
+      "deletions": 2,
+      "date": "2025-11-10"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
