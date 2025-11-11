@@ -1,0 +1,59 @@
+[
+  {
+    "sha": "1fd01d73a1d9b3108a6fce8720517ab1a8c03bf0",
+    "author": "BetoHerbas",
+    "commit": {
+      "date": "2025-11-10T05:00:55.000Z",
+      "message": "DIVIDIR primer commit",
+      "url": "https://github.com/BetoHerbas/testBranchesTDDLAB/commit/1fd01d73a1d9b3108a6fce8720517ab1a8c03bf0"
+    },
+    "stats": {
+      "total": 58,
+      "additions": 54,
+      "deletions": 4,
+      "date": "2025-11-10"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "dbd3f0f975c927c18b822115612697f6bce46000",
+    "author": "BetoHerbas",
+    "commit": {
+      "date": "2025-11-10T05:02:05.000Z",
+      "message": "DIVIDIR segundo commit",
+      "url": "https://github.com/BetoHerbas/testBranchesTDDLAB/commit/dbd3f0f975c927c18b822115612697f6bce46000"
+    },
+    "stats": {
+      "total": 26,
+      "additions": 26,
+      "deletions": 0,
+      "date": "2025-11-10"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "BetoHerbas",
+    "commit": {
+      "date": "2025-11-10T05:05:34.000Z",
+      "message": "DIVIDIR Tercer commit",
+      "url": "https://github.com/BetoHerbas/testBranchesTDDLAB/commit/HEAD"
+    },
+    "stats": {
+      "total": 25,
+      "additions": 25,
+      "deletions": 0,
+      "date": "2025-11-10"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]

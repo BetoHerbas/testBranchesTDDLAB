@@ -10,4 +10,9 @@ function multiplicar(a, b) {
   return a * b;
 }
 
-export { sumar, restar, multiplicar };
+function dividir(a, b) {
+  return a / b;
+}
+
+
+export { sumar, restar, dividir, multiplicar };

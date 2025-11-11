@@ -62,9 +62,39 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "ca29729e30c42f9627120eba7c9ea9d5b7b42c27",
     "commitName": "MAIN commit post merge con MULTIPLICAR",
     "commitTimestamp": 1762823866240,
     "testId": 1
+  },
+  {
+    "numPassedTests": 0,
+    "failedTests": 0,
+    "numTotalTests": 0,
+    "timestamp": 1762827876999,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1762827902948,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1762827921170,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "MAIN merge MULTIPLICAR",
+    "commitTimestamp": 1762827949992,
+    "testId": 2
   }
 ]
