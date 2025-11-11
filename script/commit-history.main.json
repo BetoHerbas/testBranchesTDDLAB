@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "1577cdecf7c49f203c884fc9eb2833c2428c361c",
     "author": "BetoHerbas",
     "commit": {
       "date": "2025-11-10T04:34:08.000Z",
       "message": "MAIN add restar",
-      "url": "https://github.com/BetoHerbas/testBranchesTDDLAB/commit/HEAD"
+      "url": "https://github.com/BetoHerbas/testBranchesTDDLAB/commit/1577cdecf7c49f203c884fc9eb2833c2428c361c"
     },
     "stats": {
       "total": 64,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "BetoHerbas",
+    "commit": {
+      "date": "2025-11-11T01:17:46.000Z",
+      "message": "MAIN commit post merge con MULTIPLICAR",
+      "url": "https://github.com/BetoHerbas/testBranchesTDDLAB/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 8,
+      "deletions": 0,
+      "date": "2025-11-11"
+    },
+    "coverage": 100,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }
